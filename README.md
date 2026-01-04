@@ -1,6 +1,6 @@
 # 📊 MetricCanvas Dashboard
 
-![Next.js](https://img.shields.io/badge/Next.js-15.0-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-16.0-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?style=for-the-badge&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-CSS-3.8-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Recharts](https://img.shields.io/badge/Recharts-Visualization-orange?style=for-the-badge)
@@ -72,7 +72,7 @@ All interactions provide immediate feedback. For example, restricted actions (li
 
 | Domain      | Tech             | Why use it?                                             |
 | :---------- | :--------------- | :------------------------------------------------------ |
-| **Core**    | **Next.js 15**   | App Router, SSR/RSC capabilities for SEO and speed.     |
+| **Core**    | **Next.js **   | App Router, SSR/RSC capabilities for SEO and speed.     |
 | **Typing**  | **TypeScript**   | Strict type safety to prevent runtime errors.           |
 | **Styling** | **Tailwind CSS** | Utility-first CSS for rapid, consistent design systems. |
 | **Vis**     | **Recharts**     | Composable chart library built on SVG elements.         |
