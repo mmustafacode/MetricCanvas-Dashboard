@@ -72,7 +72,7 @@ All interactions provide immediate feedback. For example, restricted actions (li
 
 | Domain      | Tech             | Why use it?                                             |
 | :---------- | :--------------- | :------------------------------------------------------ |
-| **Core**    | **Next.js **   | App Router, SSR/RSC capabilities for SEO and speed.     |
+| **Core**    | **Next.js**   | App Router, SSR/RSC capabilities for SEO and speed.     |
 | **Typing**  | **TypeScript**   | Strict type safety to prevent runtime errors.           |
 | **Styling** | **Tailwind CSS** | Utility-first CSS for rapid, consistent design systems. |
 | **Vis**     | **Recharts**     | Composable chart library built on SVG elements.         |
